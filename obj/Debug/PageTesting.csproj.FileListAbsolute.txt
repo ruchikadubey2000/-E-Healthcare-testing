@@ -1,0 +1,16 @@
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\PageTesting.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\PageTesting.pdb
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\WebDriver.dll
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\downloads\all-projects\JoePizza\PageTesting\bin\Debug\WebDriver.xml
+D:\downloads\all-projects\JoePizza\PageTesting\obj\Debug\PageTesting.csprojAssemblyReference.cache
+D:\downloads\all-projects\JoePizza\PageTesting\obj\Debug\PageTesting.csproj.CoreCompileInputs.cache
+D:\downloads\all-projects\JoePizza\PageTesting\obj\Debug\PageTesting.csproj.CopyComplete
+D:\downloads\all-projects\JoePizza\PageTesting\obj\Debug\PageTesting.dll
+D:\downloads\all-projects\JoePizza\PageTesting\obj\Debug\PageTesting.pdb
